@@ -18,7 +18,7 @@ body {
     background-color: var(--custom-black);
 }
 .container {
-    width: 350px;
+    width: 255px;
     height: 250px;
     display: flex;   
     animation: to-move 3s ease-in-out infinite;
